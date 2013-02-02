@@ -1,7 +1,9 @@
 INNGE AROUND THE WORLD - February 2013
 ======================================
 
-# Editorial - invitation to London (letter, bylaws and working-group preparation)
+Editorial
+--------
+#invitation to London (letter, bylaws and working-group preparation)
 The editorial will cover the conference in London and the preparations within INNGE.
 
 # EcoBloggers
@@ -17,3 +19,7 @@ The editorial will cover the conference in London and the preparations within IN
 What were the main outcomes of IPBES1?
 
 here will be more text
+
+*italic*
+**bold**
+
